@@ -5,7 +5,7 @@
     "guid": "41557374-8917-422d-a4eb-4e72e3959da6",
     "isActive": true,
     "balance": "$2,626.29",
-    "picture": "http://placehold.it/500x500",
+    "picture": "https://astronautican.github.io/data-api/img/31531.jpg",
     "age": 23,
     "eyeColor": "green",
     "name": {
@@ -62,7 +62,7 @@
     "guid": "2ba2ccea-b6bd-4def-923a-ede18ace3e2b",
     "isActive": true,
     "balance": "$1,705.02",
-    "picture": "http://placehold.it/500x500",
+    "picture": "https://astronautican.github.io/data-api/img/43124.jpg",
     "age": 20,
     "eyeColor": "blue",
     "name": {
@@ -119,7 +119,7 @@
     "guid": "66c07368-bbb8-4ed0-a3a5-b6bf521fed90",
     "isActive": true,
     "balance": "$1,566.66",
-    "picture": "http://placehold.it/500x500",
+    "picture": "https://astronautican.github.io/data-api/img/43134.jpg",
     "age": 37,
     "eyeColor": "green",
     "name": {
@@ -176,7 +176,7 @@
     "guid": "dd4412c7-06d5-4811-a947-cbe3136253a1",
     "isActive": false,
     "balance": "$3,525.33",
-    "picture": "http://placehold.it/500x500",
+    "picture": "https://astronautican.github.io/data-api/img/53163.jpg",
     "age": 30,
     "eyeColor": "blue",
     "name": {
@@ -233,7 +233,7 @@
     "guid": "3f25c0a4-a7a7-4dbe-a95b-81712f63daa0",
     "isActive": false,
     "balance": "$1,960.52",
-    "picture": "http://placehold.it/500x500",
+    "picture": "https://astronautican.github.io/data-api/img/53164.jpg",
     "age": 26,
     "eyeColor": "blue",
     "name": {
@@ -290,7 +290,7 @@
     "guid": "4b73b770-6cd9-4e3e-9a60-62f07be0cd72",
     "isActive": false,
     "balance": "$1,538.70",
-    "picture": "http://placehold.it/500x500",
+    "picture": "https://astronautican.github.io/data-api/img/54267.jpg",
     "age": 33,
     "eyeColor": "brown",
     "name": {
@@ -347,7 +347,7 @@
     "guid": "bf9ed43a-9802-42fb-be7f-fb46775191f1",
     "isActive": false,
     "balance": "$1,840.51",
-    "picture": "http://placehold.it/500x500",
+    "picture": "https://astronautican.github.io/data-api/img/56134.jpg",
     "age": 38,
     "eyeColor": "green",
     "name": {
